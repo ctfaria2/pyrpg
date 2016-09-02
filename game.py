@@ -2,7 +2,7 @@ from character.hero.hero import *
 from character.enemy.enemy import *
 from time import sleep
 from sys import exit
-from encounters import *
+from encounters.encounters import *
 
 print "Old Man: Welcome to PyPG, Please choose your class"
 
