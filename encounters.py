@@ -1,4 +1,4 @@
-from classes import *
+from character import *
 from sys import exit
 
 def standard_encounter(character, enemy):

@@ -1,4 +1,5 @@
-from classes import *
+from character.hero.hero import *
+from character.enemy.enemy import *
 from time import sleep
 from sys import exit
 from encounters import *
