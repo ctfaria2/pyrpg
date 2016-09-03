@@ -7,3 +7,6 @@ This was the produce of a couple of hours messing around with Python. Some thing
    - Improve 'critical' calculation. 
    - Improve story flow
    - Implement a 'flee' mechanic 
+
+## Playing
+To execute pyrpg use ``python game.py``
